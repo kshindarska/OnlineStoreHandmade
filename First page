@@ -1,0 +1,96 @@
+Firstpage
+
+<!DOCTYPE html>
+<html>
+<head>
+
+	<link rel="stylesheet" type="text/css" href="Styles.css">
+	<title>Online Shop</title>
+
+</head>
+<body>
+
+<h1>Online shop for handmade things</h1>
+
+	<!----------------------Menu----------------------->
+
+ <ul>
+ 	<li><a href="BdayCards.html">Birthday cards</li></a>
+ 	<li><a href="XmasCards.html">Christmas cards</li>
+ 	<li><a href="GCardds.html">Graduation cards</li></a>
+ </ul>
+ 
+	<!----------------------Menu----------------------->
+
+</body>
+</html>
+
+
+BdayCards
+
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="Styles.css">
+	<title>Online Shop</title>
+</head>
+<body>
+
+<h1>Online shop for handmade things</h1>
+
+	<!----------------------Menu----------------------->
+
+ <ul>
+ 	<li><a href="BdayCards.html">Birthday cards</li></a>
+ 	<li><a href="XmasCards.html">Christmas cards</li>
+ 	<li><a href="GCardds.html">Graduation cards</li></a>
+ </ul>
+
+	<!----------------------Menu----------------------->
+
+
+<img src="Unicorn.jpg" alt="UnicornBirthdayCard" >
+
+<a href="Order.html">
+	<button type ="button">Purchase</button>
+</a>
+</body>
+</html>
+
+
+Order
+
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="Styles.css">
+	<title>Online Shop</title>
+</head>
+<body>
+	<p>Your order has been completed.</p>
+</body>
+</html>
+
+Styles
+
+body {
+	background-color:black;
+}
+h1 {
+	color: white;	
+}
+li {
+	display: inline;
+	color: white;
+	padding: 20px;
+}
+p {
+	color: white;
+}
+dl {
+	color: white;
+}
+img {
+	width:290px;
+	height:400px;
+}
